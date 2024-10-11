@@ -8,6 +8,14 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 ## Atividades desenvolvidas
 Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detelhar a atividade e usar links das atividades do codepen e vídeos desenvolvidos em sala. 
 
-Livraria: https://codepen.io/aryzinha/pen/zYVyzxo
+https://codepen.io/aryzinha/pen/zYVyzxo
 
+https://codepen.io/aryzinha/pen/YzogKNw
 
+https://codepen.io/aryzinha/pen/PorvxeJ
+
+https://codepen.io/aryzinha/pen/poMyQZq
+
+https://codepen.io/aryzinha/pen/gOVwXbb
+
+https://codepen.io/aryzinha/pen/XWvNZRj
